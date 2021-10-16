@@ -13,3 +13,9 @@
 /.socket-repl-port
 .hgignore
 .hg/
+/.clj-kondo
+/.settings
+/.vscode
+/.lsp
+.classpath
+.project
